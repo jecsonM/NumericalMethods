@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlgorythOfSeparatingTheRoots")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cfe7af2ff1de6243616eeb0ee9db59cee0f7647")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b31d12b0ae735ed2d7ef6d4a2add7ab74b54a223")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlgorythOfSeparatingTheRoots")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlgorythOfSeparatingTheRoots")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -33,7 +33,7 @@
         {
             y2 = F(x2);
             if (y1 * y2 < 0)
-                Console.WriteLine($"x1: {Math.Round(x1, -(int)Math.Log10(h))}\tx2:{Math.Round(x2, -(int)Math.Log10(h))}");
+                Console.WriteLine($"x1: {Math.Round(x1, -(int)Math.Floor(Math.Log10(h)))}\tx2:{Math.Round(x2, -(int)Math.Floor(Math.Log10(h)))}");
             x1 = x2;
             x2 = x1+h;
             y1 = y2;
