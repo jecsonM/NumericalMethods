@@ -1,0 +1,14 @@
+F:\Pictures\мои док(и)\.progi\numericalMethods\AlgorythmForSeparatingTheRoots\AlgorythOfSeparatingTheRoots\bin\Debug\net8.0\AlgorythOfSeparatingTheRoots.exe
+F:\Pictures\мои док(и)\.progi\numericalMethods\AlgorythmForSeparatingTheRoots\AlgorythOfSeparatingTheRoots\bin\Debug\net8.0\AlgorythOfSeparatingTheRoots.deps.json
+F:\Pictures\мои док(и)\.progi\numericalMethods\AlgorythmForSeparatingTheRoots\AlgorythOfSeparatingTheRoots\bin\Debug\net8.0\AlgorythOfSeparatingTheRoots.runtimeconfig.json
+F:\Pictures\мои док(и)\.progi\numericalMethods\AlgorythmForSeparatingTheRoots\AlgorythOfSeparatingTheRoots\bin\Debug\net8.0\AlgorythOfSeparatingTheRoots.dll
+F:\Pictures\мои док(и)\.progi\numericalMethods\AlgorythmForSeparatingTheRoots\AlgorythOfSeparatingTheRoots\bin\Debug\net8.0\AlgorythOfSeparatingTheRoots.pdb
+F:\Pictures\мои док(и)\.progi\numericalMethods\AlgorythmForSeparatingTheRoots\AlgorythOfSeparatingTheRoots\obj\Debug\net8.0\AlgorythOfSeparatingTheRoots.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pictures\мои док(и)\.progi\numericalMethods\AlgorythmForSeparatingTheRoots\AlgorythOfSeparatingTheRoots\obj\Debug\net8.0\AlgorythOfSeparatingTheRoots.AssemblyInfoInputs.cache
+F:\Pictures\мои док(и)\.progi\numericalMethods\AlgorythmForSeparatingTheRoots\AlgorythOfSeparatingTheRoots\obj\Debug\net8.0\AlgorythOfSeparatingTheRoots.AssemblyInfo.cs
+F:\Pictures\мои док(и)\.progi\numericalMethods\AlgorythmForSeparatingTheRoots\AlgorythOfSeparatingTheRoots\obj\Debug\net8.0\AlgorythOfSeparatingTheRoots.csproj.CoreCompileInputs.cache
+F:\Pictures\мои док(и)\.progi\numericalMethods\AlgorythmForSeparatingTheRoots\AlgorythOfSeparatingTheRoots\obj\Debug\net8.0\AlgorythOfSeparatingTheRoots.dll
+F:\Pictures\мои док(и)\.progi\numericalMethods\AlgorythmForSeparatingTheRoots\AlgorythOfSeparatingTheRoots\obj\Debug\net8.0\refint\AlgorythOfSeparatingTheRoots.dll
+F:\Pictures\мои док(и)\.progi\numericalMethods\AlgorythmForSeparatingTheRoots\AlgorythOfSeparatingTheRoots\obj\Debug\net8.0\AlgorythOfSeparatingTheRoots.pdb
+F:\Pictures\мои док(и)\.progi\numericalMethods\AlgorythmForSeparatingTheRoots\AlgorythOfSeparatingTheRoots\obj\Debug\net8.0\AlgorythOfSeparatingTheRoots.genruntimeconfig.cache
+F:\Pictures\мои док(и)\.progi\numericalMethods\AlgorythmForSeparatingTheRoots\AlgorythOfSeparatingTheRoots\obj\Debug\net8.0\ref\AlgorythOfSeparatingTheRoots.dll
