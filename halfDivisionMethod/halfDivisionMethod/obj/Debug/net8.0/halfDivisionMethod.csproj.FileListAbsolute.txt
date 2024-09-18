@@ -1,0 +1,14 @@
+F:\Pictures\мои док(и)\.progi\numericalMethods\halfDivisionMethod\halfDivisionMethod\bin\Debug\net8.0\halfDivisionMethod.exe
+F:\Pictures\мои док(и)\.progi\numericalMethods\halfDivisionMethod\halfDivisionMethod\bin\Debug\net8.0\halfDivisionMethod.deps.json
+F:\Pictures\мои док(и)\.progi\numericalMethods\halfDivisionMethod\halfDivisionMethod\bin\Debug\net8.0\halfDivisionMethod.runtimeconfig.json
+F:\Pictures\мои док(и)\.progi\numericalMethods\halfDivisionMethod\halfDivisionMethod\bin\Debug\net8.0\halfDivisionMethod.dll
+F:\Pictures\мои док(и)\.progi\numericalMethods\halfDivisionMethod\halfDivisionMethod\bin\Debug\net8.0\halfDivisionMethod.pdb
+F:\Pictures\мои док(и)\.progi\numericalMethods\halfDivisionMethod\halfDivisionMethod\obj\Debug\net8.0\halfDivisionMethod.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pictures\мои док(и)\.progi\numericalMethods\halfDivisionMethod\halfDivisionMethod\obj\Debug\net8.0\halfDivisionMethod.AssemblyInfoInputs.cache
+F:\Pictures\мои док(и)\.progi\numericalMethods\halfDivisionMethod\halfDivisionMethod\obj\Debug\net8.0\halfDivisionMethod.AssemblyInfo.cs
+F:\Pictures\мои док(и)\.progi\numericalMethods\halfDivisionMethod\halfDivisionMethod\obj\Debug\net8.0\halfDivisionMethod.csproj.CoreCompileInputs.cache
+F:\Pictures\мои док(и)\.progi\numericalMethods\halfDivisionMethod\halfDivisionMethod\obj\Debug\net8.0\halfDivisionMethod.dll
+F:\Pictures\мои док(и)\.progi\numericalMethods\halfDivisionMethod\halfDivisionMethod\obj\Debug\net8.0\refint\halfDivisionMethod.dll
+F:\Pictures\мои док(и)\.progi\numericalMethods\halfDivisionMethod\halfDivisionMethod\obj\Debug\net8.0\halfDivisionMethod.pdb
+F:\Pictures\мои док(и)\.progi\numericalMethods\halfDivisionMethod\halfDivisionMethod\obj\Debug\net8.0\halfDivisionMethod.genruntimeconfig.cache
+F:\Pictures\мои док(и)\.progi\numericalMethods\halfDivisionMethod\halfDivisionMethod\obj\Debug\net8.0\ref\halfDivisionMethod.dll
