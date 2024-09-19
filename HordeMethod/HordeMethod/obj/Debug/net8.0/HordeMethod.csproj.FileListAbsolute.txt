@@ -1,0 +1,14 @@
+F:\Pictures\мои док(и)\.progi\numericalMethods\HordeMethod\HordeMethod\obj\Debug\net8.0\HordeMethod.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pictures\мои док(и)\.progi\numericalMethods\HordeMethod\HordeMethod\obj\Debug\net8.0\HordeMethod.AssemblyInfoInputs.cache
+F:\Pictures\мои док(и)\.progi\numericalMethods\HordeMethod\HordeMethod\obj\Debug\net8.0\HordeMethod.AssemblyInfo.cs
+F:\Pictures\мои док(и)\.progi\numericalMethods\HordeMethod\HordeMethod\obj\Debug\net8.0\HordeMethod.csproj.CoreCompileInputs.cache
+F:\Pictures\мои док(и)\.progi\numericalMethods\HordeMethod\HordeMethod\bin\Debug\net8.0\HordeMethod.exe
+F:\Pictures\мои док(и)\.progi\numericalMethods\HordeMethod\HordeMethod\bin\Debug\net8.0\HordeMethod.deps.json
+F:\Pictures\мои док(и)\.progi\numericalMethods\HordeMethod\HordeMethod\bin\Debug\net8.0\HordeMethod.runtimeconfig.json
+F:\Pictures\мои док(и)\.progi\numericalMethods\HordeMethod\HordeMethod\bin\Debug\net8.0\HordeMethod.dll
+F:\Pictures\мои док(и)\.progi\numericalMethods\HordeMethod\HordeMethod\bin\Debug\net8.0\HordeMethod.pdb
+F:\Pictures\мои док(и)\.progi\numericalMethods\HordeMethod\HordeMethod\obj\Debug\net8.0\HordeMethod.dll
+F:\Pictures\мои док(и)\.progi\numericalMethods\HordeMethod\HordeMethod\obj\Debug\net8.0\refint\HordeMethod.dll
+F:\Pictures\мои док(и)\.progi\numericalMethods\HordeMethod\HordeMethod\obj\Debug\net8.0\HordeMethod.pdb
+F:\Pictures\мои док(и)\.progi\numericalMethods\HordeMethod\HordeMethod\obj\Debug\net8.0\HordeMethod.genruntimeconfig.cache
+F:\Pictures\мои док(и)\.progi\numericalMethods\HordeMethod\HordeMethod\obj\Debug\net8.0\ref\HordeMethod.dll
